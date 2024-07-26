@@ -1,3 +1,3 @@
 # bookboot
 
-BookBot is a command line project in Python.
+BookBot is my first project in Python.
